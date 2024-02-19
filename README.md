@@ -99,7 +99,8 @@ The team’s ultimate goal is to reduce call volume by increasing customer satis
 -Ideal future experience: Reduced repeated calls, and improved customer experience.<br>
 
 **Assumptions:** <br>
-To anonymize and fictionalize the data, the datasets the columns market_1, market_2, and market_3 to indicate three different city service areas the data represents.<br> 
+To anonymize and fictionalize the data, the datasets the columns market_1, market_2, and market_3 to indicate three different city service areas the data represents.
+
 The data also lists five problem types:<br>
 -Type_1 is account management<br>
 -Type_2 is technician troubleshooting<br>
@@ -210,6 +211,8 @@ Based on the insights provided, it was determined that the most common problem (
 The dashboard further reveals that in Market 1, 2 and 3, internet and wifi (type 5) was the cause for 38%, 35% and 71% of the total repeat calls respectively. On the contrary, it is evident that in Market 1, 2 and 3, technical troubleshooting (type 2) was the cause of 52%, 45% and 16% of the total repeat calls respectively.
 
 The days with highest repeat calls were Monday, Wednesday and Tuesday. 
+
+The highest number of repeat calls were made one day after the initial call. The visuals reflect that in all three months, the number of repeat calls declined from 1st day after the initial call to the seventh day. This indicates that repeat calls after the seventh day are unlikely. This may be because the problem was finally resolved, or a frustrated customer had finally given up and terminated Google Fibre services. 
 
 *Recommendations* <br>
 1. Ensure experienced and fully trained staff is on duty from Monday to Wednesday.<br>
