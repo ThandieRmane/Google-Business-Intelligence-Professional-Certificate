@@ -185,15 +185,17 @@ Any chart with detailed metrics should have the ability to click on that metric 
 | Dimension(s)  | Date, contact |
 | Metric(s)  | Date  |
 
+*Dashboard Mockup*
+
 ![MockDiagram](Dashboard_mockup.png)
 
 ## Conclusion
 
 *Insights*
 
-Based on the insights provided, it was determined that the most common problem (resulting in 46% of repeat calls) is internet and wifi (type 5), followed by technical troubleshooting (type 2) at 43%. These two were the main problem types accounting for over 80% of repeat calls in January, February and March. For all three months, each of these problems accounted for about 40% of repeat calls.
+Based on the insights provided, it was determined that the most common problem (resulting in 46% of repeat calls) is internet and wifi (type 5), followed by technical troubleshooting (type 2) at 43%. These two were the main problem types accounting for over 80% of repeat calls in January, February and March 2022. For all three months, each of these problems accounted for about 40% of repeat calls.
 
-The dashboard further reveals that in Market 1, 2 and 3, internet and wifi (type 5) was the cause for 38%, 35% and 71% repeat calls respectively. On the contrary, it is evident that in Market 1, 2 and 3, technical troubleshooting (type 2) was the cause of 52%, 45% and 16% respectively.
+The dashboard further reveals that in Market 1, 2 and 3, internet and wifi (type 5) was the cause for 38%, 35% and 71% of the total repeat calls respectively. On the contrary, it is evident that in Market 1, 2 and 3, technical troubleshooting (type 2) was the cause of 52%, 45% and 16% of the total repeat calls respectively.
 
 The days with highest repeat calls were Monday, Wednesday and Tuesday. 
 
