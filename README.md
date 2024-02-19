@@ -6,7 +6,7 @@ Google Fibre provides individuals and businesses with fibre optic internet. As p
 
 The team needs to understand how often customers phone customer support again after their first enquiry. Further, leaders want to explore the trends in repeated calls to understand why customers are calling more than once, as well as to improve the overall customer experience. The insights provided by the dashboard will inform the team's next steps. 
 
-The information provided was 3 seperate spreadsheets for market 1, 2 and 3. The spreadsheets were combined on Bigquery using a union (SQL).
+The information provided was 3 seperate spreadsheets for market 1, 2 and 3. The spreadsheets were combined on Bigquery using a union (SQL). Only information for January, February and March 2022 was provided. 
 
 ## Stakeholder Requirements Document
                                                                                         
@@ -106,7 +106,7 @@ I expect to be done with the project in three weeks.
 Week two: Finalize SQL. Dashboard design. First review with the team.  
 Week three: Dashboard building and testing.
 
-# Strategy document
+## Strategy document
 
 **Sign off matrix**
 
@@ -185,13 +185,13 @@ Any chart with detailed metrics should have the ability to click on that metric 
 | Dimension(s)  | Date, contact |
 | Metric(s)  | Date  |
 
-![MockDiagram](https://drive.google.com/file/d/1qJBgGFCFTKyiMSJBKQfbiJVaZWA-mZ2B/view)
+![MockDiagram](https://drive.google.com/file/d/1qJBgGFCFTKyiMSJBKQfbiJVaZWA-mZ2B/view?usp=drive_link)
 
 ## Conclusion
 
 *Insights*
 
-Based on the insights provided, it was determined that the most common problem (resulting in 46% of repeat calls) is internet and wifi (type 5), followed by techncal troubleshooting (type 2) at 43%. These two were the main problem types accounting for over 80% of repeat calls in January, February and March. For all three months, each of these problems accounted for about 40% of repeat calls.
+Based on the insights provided, it was determined that the most common problem (resulting in 46% of repeat calls) is internet and wifi (type 5), followed by technical troubleshooting (type 2) at 43%. These two were the main problem types accounting for over 80% of repeat calls in January, February and March. For all three months, each of these problems accounted for about 40% of repeat calls.
 
 The dashboard further reveals that in Market 1, 2 and 3, internet and wifi (type 5) was the cause for 38%, 35% and 71% repeat calls respectively. On the contrary, it is evident that in Market 1, 2 and 3, technical troubleshooting (type 2) was the cause of 52%, 45% and 16% respectively.
 
