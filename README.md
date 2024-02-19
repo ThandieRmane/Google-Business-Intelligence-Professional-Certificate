@@ -69,9 +69,13 @@ The team needs to understand how often customers phone customer support again af
 The team’s ultimate goal is to reduce call volume by increasing customer satisfaction and improving operational optimization. The dashboard should demonstrate an understanding of this goal and provide stakeholders with insights about repeat caller volumes in different markets and the types of problems they represent. 
 
 *Specific:* The insights provided by the dashboard should identify the characteristics of repeated calls and the quantity of such calls.
+
 *Measurable:* Calls are to be evaluated using quantifiable metrics such as frequency and volume.
+
 *Action-oriented:* The dashboard should provide insights that the team can use to reduce call volume and increase customer satisfaction
+
 *Relevant:* All metrics and dimensions used should be relevant to Google Fibre and support the primary goal. 
+
 *Time-bound:* Analyse data that spans at least one year to understand how repeat callers change over time.
 
 **User journeys:** 
@@ -178,9 +182,12 @@ Any chart with detailed metrics should have the ability to click on that metric 
 | Dimension(s)  | Date, contact |
 | Metric(s)  | Date  |
 
+![MockDiagram](https://drive.google.com/file/d/1qJBgGFCFTKyiMSJBKQfbiJVaZWA-mZ2B/view?usp=sharing)
+
 ## Conclusion
 
 *Insights*
+
 Based on the insights provided, it was determined that the most common problem (resulting in 46% of repeat calls) is internet and wifi (type 5), followed by techncal troubleshooting (type 2) at 43%. These two were the main problem types accounting for over 80% of repeat calls in January, February and March. For all three months, each of these problems accounted for about 40% of repeat calls.
 
 The dashboard further reveals that in Market 1, 2 and 3, internet and wifi (type 5) was the cause for 38%, 35% and 71% repeat calls respectively. On the contrary, it is evident that in Market 1, 2 and 3, technical troubleshooting (type 2) was the cause of 52%, 45% and 16% respectively.
