@@ -185,7 +185,7 @@ Any chart with detailed metrics should have the ability to click on that metric 
 | Dimension(s)  | Date, contact |
 | Metric(s)  | Date  |
 
-![MockDiagram](https://drive.google.com/file/d/1qJBgGFCFTKyiMSJBKQfbiJVaZWA-mZ2B/view?usp=drive_link)
+![MockDiagram](Dashboard mockup.png)
 
 ## Conclusion
 
