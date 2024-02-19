@@ -29,21 +29,21 @@ FROM market_3;
 
 **Business problem:** To determine how often customers call back after the first inquiry. To explore the trend in repeated calls to identify why customers have to call more than once and to explore how to improve the overall customer experience. 
 
-**Stakeholders:**
--Emma Santiago (Hiring manager)
--Keith Portone (Project manager)
--Minna Rah (Lead BI Analyst)
--Ian Ortega, BI Analyst
+**Stakeholders:** <br>
+-Emma Santiago (Hiring manager)<br>
+-Keith Portone (Project manager)<br>
+-Minna Rah (Lead BI Analyst)<br>
+-Ian Ortega, BI Analyst<br>
 -Sylvie Essa, BI Analyst
 
 **Stakeholder usage details:** Stakeholders would like to understand how often customers are calling in different markets with different problems. Insights will improve customer service and customer satisfaction. 
 
-**Primary requirements:**
--A chart or table measuring repeat calls by their first contact date
--A chart or table exploring repeat calls by market and problem type
--Charts showcasing repeat calls by week, month, and quarter
--Provide insights into the types of customer issues that seem to generate more repeat calls
--Explore repeat caller trends in the three different market cities
+**Primary requirements:** <br>
+-A chart or table measuring repeat calls by their first contact date<br>
+-A chart or table exploring repeat calls by market and problem type<br>
+-Charts showcasing repeat calls by week, month, and quarter<br>
+-Provide insights into the types of customer issues that seem to generate more repeat calls<br>
+-Explore repeat caller trends in the three different market cities<br>
 -Design charts so that stakeholders can view trends by week, month, quarter, and year
 
 
@@ -51,37 +51,37 @@ FROM market_3;
                                                                                         
 **BI Analyst:** Thandie R.
 
-**Client/Sponsor:** Google Fibre; Emma Santiage, Hiring Manager
+**Client/Sponsor:** <br>Google Fibre; Emma Santiage, Hiring Manager
 
 **Purpose:** As part of an interview process, Fibre customer service team has requested a dashboard using fictional call center data. Google Fibre provides individuals and businesses with fibre optic internet. The customer service team would like to determine how often customers call again after the first inquiry. They would like to explore the trends in repeated calls to identify why customers are having to call more than once. Insights will improve the overall customer service experience. The dashboard created should provide valuable insights to the customer service team. 
 
 **Key dependencies:**
 
-*Team members:* 
--Ian ortega (BI Analysts)
+*Team members:* <br>
+-Ian ortega (BI Analysts)<br>
 -Sylvie Essa (BI Analysts)
 
-*Stakeholders:* 
--Emma Santiago, Hiring Manager (primary contact)
--Keith Portone, Project Manager (primary contact)
--Minna Rah, Lead BI Analyst
+*Stakeholders:*<br>
+-Emma Santiago, Hiring Manager (primary contact)<br>
+-Keith Portone, Project Manager (primary contact)<br>
+-Minna Rah, Lead BI Analyst<br>
 
-*Expected deliverables:*
--A chart or table measuring repeat calls by their first contact date
--A chart or table exploring repeat calls by market and problem type
--Charts showcasing repeat calls by week, month, and quarter
+*Expected deliverables:* <br>
+-A chart or table measuring repeat calls by their first contact date<br>
+-A chart or table exploring repeat calls by market and problem type<br>
+-Charts showcasing repeat calls by week, month, and quarter<br>
 
 
-**Stakeholder requirements:** (R - required, D - desired, or N - nice to have.)
--R: A chart or table measuring repeat calls by their first contact date
--R: A chart or table exploring repeat calls by market and problem type
--D: Charts showcasing repeat calls by week, month, and quarter
--R: Dashboard needs to be accessible, with large print and text-to-speech alternatives.
--D: Provide insights into the types of customer issues that seem to generate more repeat calls
--R: Explore repeat caller trends in the three different market cities
+**Stakeholder requirements:** (R - required, D - desired, or N - nice to have.)<br>
+-R: A chart or table measuring repeat calls by their first contact date<br>
+-R: A chart or table exploring repeat calls by market and problem type<br>
+-D: Charts showcasing repeat calls by week, month, and quarter<br>
+-R: Dashboard needs to be accessible, with large print and text-to-speech alternatives.<br>
+-D: Provide insights into the types of customer issues that seem to generate more repeat calls<br>
+-R: Explore repeat caller trends in the three different market cities<br>
 -R: Design charts so that stakeholders can view trends by week, month, quarter, and year. 
 
-**Success criteria:** 
+**Success criteria:** <br>
 The team’s ultimate goal is to reduce call volume by increasing customer satisfaction and improving operational optimization. The dashboard should demonstrate an understanding of this goal and provide stakeholders with insights about repeat caller volumes in different markets and the types of problems they represent. 
 
 *Specific:* The insights provided by the dashboard should identify the characteristics of repeated calls and the quantity of such calls.
@@ -94,18 +94,18 @@ The team’s ultimate goal is to reduce call volume by increasing customer satis
 
 *Time-bound:* Analyse data that spans at least one year to understand how repeat callers change over time.
 
-**User journeys:** 
--Current user experience: Customers call more than once before their inquiry is resolved.
--Ideal future experience: Reduced repeated calls, and improved customer experience.
+**User journeys:** <br> 
+-Current user experience: Customers call more than once before their inquiry is resolved.<br>
+-Ideal future experience: Reduced repeated calls, and improved customer experience.<br>
 
-**Assumptions:**
-To anonymize and fictionalize the data, the datasets the columns market_1, market_2, and market_3 to indicate three different city service areas the data represents. 
-The data also lists five problem types:
--Type_1 is account management
--Type_2 is technician troubleshooting
--Type_3 is scheduling
--Type_4 is construction
--Type_5 is internet and wifi
+**Assumptions:** <br>
+To anonymize and fictionalize the data, the datasets the columns market_1, market_2, and market_3 to indicate three different city service areas the data represents.<br> 
+The data also lists five problem types:<br>
+-Type_1 is account management<br>
+-Type_2 is technician troubleshooting<br>
+-Type_3 is scheduling<br>
+-Type_4 is construction<br>
+-Type_5 is internet and wifi<br>
 
 Additionally, the dataset also records repeat calls over seven day periods. The initial contact date is listed as contacts_n. The other call columns are then contacts_n_number of days since first call. For example, contacts_n_6 indicates six days since first contact.
 
@@ -113,11 +113,11 @@ Additionally, the dataset also records repeat calls over seven day periods. The 
  
 **Accessibility:** Per Minna’s request, the dashboard needs to be accessible, with large print and text-to-speech alternatives.
 
-**Roll-out plan:** 
-I expect to be done with the project in three weeks.
-*Week one:* Planning and follow up questions with Google Fibre
-Week two: Finalize SQL. Dashboard design. First review with the team.  
-Week three: Dashboard building and testing.
+**Roll-out plan:**<br> 
+I expect to be done with the project in three weeks.<br>
+*Week one:* Planning and follow up questions with Google Fibre<br>
+*Week two:* Finalize SQL. Dashboard design. First review with the team.<br> 
+*Week three:* Dashboard building and testing.<br>
 
 ## Strategy Document
 
@@ -132,11 +132,10 @@ Week three: Dashboard building and testing.
 
 **Status:** [Draft] > *Under review* > Implemented | Not implemented (Highlight current status)
 
-**Primary dataset:** 
-
-1. market_1 
-2. market_2 
-3. market_3
+**Primary dataset:** <br>
+1. market_1<br>
+2. market_2<br>
+3. market_3<br>
 
 **Secondary dataset:** N/A
 
