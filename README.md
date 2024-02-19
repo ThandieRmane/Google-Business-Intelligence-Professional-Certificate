@@ -139,29 +139,28 @@ I expect to be done with the project in three weeks.<br>
 
 **Secondary dataset:** N/A
 
-*User Profiles*
-
--Emma Santiage, Hiring Manager
--Keith Portone, Project Manager
--Minna Rah, Lead BI Analyst
--Ian Ortega, BI Analyst
+*User Profiles* <br>
+-Emma Santiage, Hiring Manager<br>
+-Keith Portone, Project Manager<br>
+-Minna Rah, Lead BI Analyst<br>
+-Ian Ortega, BI Analyst<br>
 -Sylvie Essa, BI Analyst
 
 **Dashboard functionality**
 
-*Reference dashboard*
+*Reference dashboard* <br>
 Build a new dashboard to explore the number of repeat callers in three different market cities, including their problem types.
 
-*Access*
+*Access* <br>
 Read only access will be provided to the individuals listed under user profiles. 
 
-*Scope*
+*Scope* <br>
 Fields include date, market, problem type, contact_n and contact_n#
 
-*Date filters and granularity*
+*Date filters and granularity* <br>
 Data filters can be applied for market, problem type, day and month
 
-Granularity:
+Granularity: <br>
 Any chart with detailed metrics should have the ability to click on that metric to view specific information.
 
 **Metrics and charts**
@@ -212,7 +211,7 @@ The dashboard further reveals that in Market 1, 2 and 3, internet and wifi (type
 
 The days with highest repeat calls were Monday, Wednesday and Tuesday. 
 
-*Recommendations*
-1. Ensure experienced and fully trained staff is on duty from Monday to Wednesday.
-2. Allocate all calls related to internet and wifi as well as technical troubleshooting to experienced and fully trained staff.
+*Recommendations* <br>
+1. Ensure experienced and fully trained staff is on duty from Monday to Wednesday.<br>
+2. Allocate all calls related to internet and wifi as well as technical troubleshooting to experienced and fully trained staff.<br>
 3. Request customer feedback after all repeat calls, providing more details on how the problem could have been resolved better. 
