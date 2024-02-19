@@ -1,9 +1,12 @@
 # Google Fibre
 
-##Background
+## Background
+
 Google Fibre provides individuals and businesses with fibre optic internet. As part of their interview process, the Fibre customer service team has requested that I design a dashboard using fictional data. 
 
 The team needs to understand how often customers phone customer support again after their first enquiry. Further, leaders want to explore the trends in repeated calls to understand why customers are calling more than once, as well as to improve the overall customer experience. The insights provided by the dashboard will inform the team's next steps. 
+
+The information provided was 3 seperate spreadsheets for market 1, 2 and 3. The spreadsheets were combined on Bigquery using a union (SQL).
 
 ## Stakeholder Requirements Document
                                                                                         
@@ -182,7 +185,7 @@ Any chart with detailed metrics should have the ability to click on that metric 
 | Dimension(s)  | Date, contact |
 | Metric(s)  | Date  |
 
-![MockDiagram](https://drive.google.com/file/d/1qJBgGFCFTKyiMSJBKQfbiJVaZWA-mZ2B/view?usp=sharing)
+![MockDiagram](https://drive.google.com/file/d/1qJBgGFCFTKyiMSJBKQfbiJVaZWA-mZ2B/view)
 
 ## Conclusion
 
