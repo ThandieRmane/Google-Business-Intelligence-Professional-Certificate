@@ -215,6 +215,7 @@ The days with highest repeat calls were Monday, Wednesday and Tuesday.
 The highest number of repeat calls were made one day after the initial call. The visuals reflect that in all three months, the number of repeat calls declined from 1st day after the initial call to the seventh day. This indicates that repeat calls after the seventh day are unlikely. This may be because the problem was finally resolved, or a frustrated customer had finally given up and terminated Google Fibre services. 
 
 *Recommendations* <br>
-1. Ensure experienced and fully trained staff is on duty from Monday to Wednesday.<br>
+1. Ensure experienced and fully trained staff are on duty from Monday to Wednesday.<br>
 2. Allocate all calls related to internet and wifi as well as technical troubleshooting to experienced and fully trained staff.<br>
-3. Request customer feedback after all repeat calls, providing more details on how the problem could have been resolved better. 
+3. Request customer feedback after all repeat calls, providing more details on how the problem could have been resolved better. <br>
+4. Update Google Fibre's website with a page for frequently asked questions regarding 'internet and wifi' and 'technical troubleshooting'. Provide the link to all customers monthly when emailing their bill.
