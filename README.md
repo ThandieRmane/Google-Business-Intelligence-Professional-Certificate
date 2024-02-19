@@ -106,7 +106,7 @@ I expect to be done with the project in three weeks.
 Week two: Finalize SQL. Dashboard design. First review with the team.  
 Week three: Dashboard building and testing.
 
-## Strategy document
+## Strategy Document
 
 **Sign off matrix**
 
