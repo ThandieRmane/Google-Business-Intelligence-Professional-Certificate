@@ -8,6 +8,19 @@ The team needs to understand how often customers phone customer support again af
 
 The information provided was 3 seperate spreadsheets for market 1, 2 and 3. The spreadsheets were combined on Bigquery using a union (SQL). Only information for January, February and March 2022 was provided. 
 
+## Merging the data with SQL
+
+```SQL
+SELECT *
+FROM market_1
+UNION
+SELECT *
+FROM market_2
+UNION
+SELECT *
+FROM market_3;
+```
+
 ## Stakeholder Requirements Document
                                                                                         
 **BI Professional:** Thandie R. 
@@ -120,9 +133,10 @@ Week three: Dashboard building and testing.
 **Status:** [Draft] > *Under review* > Implemented | Not implemented (Highlight current status)
 
 **Primary dataset:** 
-1market_1 
-2market_2 
-3market_3
+
+1. market_1 
+2. market_2 
+3. market_3
 
 **Secondary dataset:** N/A
 
