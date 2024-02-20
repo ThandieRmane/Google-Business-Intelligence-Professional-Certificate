@@ -1,6 +1,6 @@
 # Google Fibre
 
-## Table of contents <br>
+## Table Of Contents <br>
 1. [Background](#Background)
 2. [Merging Data](#Merging-the-data-with-SQL)
 3. [Stakeholder Requirements Document](#Stakeholder-Requirements-Document)
