@@ -1,5 +1,14 @@
 # Google Fibre
 
+## Table of contents <br>
+1. [Background](##Background)
+2. [Merging Data](##Merging-the-data-with-SQL)
+3. [Stakeholder Requirements Document](##Stakeholder-Requirements-Document)
+4. [Project requirements Document](##Project-Requirements-Document)
+5. [Strategy Document](##Strategy-Document)
+6. [Conclusion](##Conclusion)
+7. [Dashboard](Google_Fibre_Dashboard.pbix)
+
 ## Background
 
 Google Fibre provides individuals and businesses with fibre optic internet. As part of their interview process, the Fibre customer service team has requested that I design a dashboard using fictional data. 
@@ -20,6 +29,7 @@ UNION
 SELECT *
 FROM market_3;
 ```
+[Access the table here:](FibreUnionTable.csv)
 
 ## Stakeholder Requirements Document
                                                                                         
@@ -133,12 +143,12 @@ I expect to be done with the project in three weeks.<br>
 
 **Status:** [Draft] > *Under review* > Implemented | Not implemented (Highlight current status)
 
-**Primary dataset:** <br>
+**Data received:** <br>
 1. market_1<br>
 2. market_2<br>
 3. market_3<br>
 
-**Secondary dataset:** N/A
+[Access the combined table here:](FibreUnionTable.csv)
 
 *User Profiles* <br>
 -Emma Santiage, Hiring Manager<br>
@@ -219,3 +229,5 @@ The highest number of repeat calls were made one day after the initial call. The
 2. Allocate all calls related to internet and wifi as well as technical troubleshooting to experienced and fully trained staff.<br>
 3. Request customer feedback after all repeat calls, providing more details on how the problem could have been resolved better. <br>
 4. Update Google Fibre's website with a page for frequently asked questions regarding 'internet and wifi' and 'technical troubleshooting'. Provide the link to all customers monthly when emailing their bill.
+
+[Access the dashboard here:](Google_Fibre_Dashboard.pbix)
