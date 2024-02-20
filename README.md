@@ -148,7 +148,7 @@ I expect to be done with the project in three weeks.<br>
 2. market_2<br>
 3. market_3<br>
 
-[Access the combined table here:](FibreUnionTable.csv)
+[Access the combined table here](FibreUnionTable.csv)
 
 *User Profiles* <br>
 -Emma Santiage, Hiring Manager<br>
