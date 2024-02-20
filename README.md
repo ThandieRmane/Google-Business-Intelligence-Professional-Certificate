@@ -1,12 +1,12 @@
 # Google Fibre
 
 ## Table of contents <br>
-1. [Background](##Background)
-2. [Merging Data](##Merging-the-data-with-SQL)
-3. [Stakeholder Requirements Document](##Stakeholder-Requirements-Document)
-4. [Project requirements Document](##Project-Requirements-Document)
-5. [Strategy Document](##Strategy-Document)
-6. [Conclusion](##Conclusion)
+1. [Background](#Background)
+2. [Merging Data](#Merging-the-data-with-SQL)
+3. [Stakeholder Requirements Document](#Stakeholder-Requirements-Document)
+4. [Project requirements Document](#Project-Requirements-Document)
+5. [Strategy Document](#Strategy-Document)
+6. [Conclusion](#Conclusion)
 7. [Dashboard](Google_Fibre_Dashboard.pbix)
 
 ## Background
@@ -29,7 +29,7 @@ UNION
 SELECT *
 FROM market_3;
 ```
-[Access the table here:](FibreUnionTable.csv)
+[Access the table here](FibreUnionTable.csv)
 
 ## Stakeholder Requirements Document
                                                                                         
@@ -208,7 +208,7 @@ Any chart with detailed metrics should have the ability to click on that metric 
 | Dimension(s)  | Date, contact |
 | Metric(s)  | Date  |
 
-*Dashboard Mockup*
+*Dashboard Mockup:*
 
 ![MockDiagram](Dashboard_mockup.png)
 
@@ -230,4 +230,4 @@ The highest number of repeat calls were made one day after the initial call. The
 3. Request customer feedback after all repeat calls, providing more details on how the problem could have been resolved better. <br>
 4. Update Google Fibre's website with a page for frequently asked questions regarding 'internet and wifi' and 'technical troubleshooting'. Provide the link to all customers monthly when emailing their bill.
 
-[Access the dashboard here:](Google_Fibre_Dashboard.pbix)
+[Access the dashboard here](Google_Fibre_Dashboard.pbix)
